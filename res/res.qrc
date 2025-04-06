@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>new.png</file>
+        <file>open.png</file>
+        <file>config.png</file>
+    </qresource>
+    <qresource prefix="/new/prefix2">
+        <file>pbx_page1.Image.png</file>
+        <file>pbx_page2.Image.png</file>
+        <file>direction1.png</file>
+        <file>direction2.png</file>
+    </qresource>
+    <qresource prefix="/new/prefix3">
+        <file>1.png</file>
+        <file>2.png</file>
+    </qresource>
+    <qresource prefix="/new/prefix4">
+        <file>logo.png</file>
+    </qresource>
+</RCC>
